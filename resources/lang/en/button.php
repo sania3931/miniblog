@@ -1,0 +1,22 @@
+<?php
+return [
+    'login' => 'Login',
+    'logout' => 'Logout',
+    'register' => 'Register',
+    'more' => 'More',
+    'add' => 'Add',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'show' => 'Show',
+    'submit' => 'Submit',
+    'cancel' => 'Cancel',
+    'save' => 'Save',
+    'upload' => 'Upload',
+    'addImage' => 'Add Image',
+    'saveToDraft' => 'Save to draft',
+    'back' => 'Back',
+    'replay' => 'Replay',
+    'like' => 'Like',
+    'liked' => 'Liked',
+    'sendPasswordResetLink' => 'Send Password Reset Link',
+];

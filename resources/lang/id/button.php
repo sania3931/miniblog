@@ -1,0 +1,22 @@
+<?php
+return [
+    'login' => 'Masuk',
+    'logout' => 'Keluar',
+    'register' => 'Daftar',
+    'more' => 'Selengkapnya',
+    'add' => 'Tambah',
+    'edit' => 'Sunting',
+    'delete' => 'Hapus',
+    'show' => 'Tampilkan',
+    'submit' => 'Kirim',
+    'cancel' => 'Batal',
+    'save' => 'Simpan',
+    'upload' => 'Unggah',
+    'addImage' => 'Tambah Gambar',
+    'saveToDraft' => 'Simpan ke draft',
+    'back' => 'Kembali',
+    'replay' => 'Balas',
+    'like' => 'Suka',
+    'liked' => 'Batal Suka',
+    'sendPasswordResetLink' => 'Kirim Tautan Atur Ulang Kata Sandi',
+];
